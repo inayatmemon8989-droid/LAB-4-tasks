@@ -45,4 +45,3 @@ A collection of foundational C programs covering standard input/output operation
 * **Description:** Evaluates marks against a threshold of $50$ to output either "Pass" or "Fail".
 
 
-   cd YOUR_REPOSITORY_NAME
